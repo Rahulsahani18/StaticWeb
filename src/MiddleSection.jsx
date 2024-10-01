@@ -1,7 +1,7 @@
 import React from 'react'
 import './MiddleSection.css'
 import Item from './assets/Item.png'
-import Vector from './assets/vector.png'
+import Vector from './assets/Vector.png'
 import Ellips from './assets/Ellipse.png'
 import Ellips2 from './assets/Ellipse2.png'
 import Ellips3 from './assets/Ellipse3.png'
