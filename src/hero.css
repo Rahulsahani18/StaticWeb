@@ -1,0 +1,42 @@
+
+.row{
+    --bs-gutter-x: 0rem
+}
+
+.NavBar2 {
+    padding: 10px 0;
+    text-align: center;
+    /* margin-left: 15px; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.pagination .page-item .page-link {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 0 5px; */
+    
+    color: #6c757d;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    color: white;
+}
+.ScrollBtn{
+    cursor: pointer;
+}
+
+@media screen, (min-width:768px){
+    /* .pagination .page-item .page-link {
+        width: 100%;
+
+        
+    } */
+}
