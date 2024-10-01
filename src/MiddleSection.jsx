@@ -186,7 +186,7 @@ const MiddleSection = () => {
     <img className='img-fluid  Ellip' src={Ellips}/>
     <img className='img-fluid mt-5 Ellip2' src={Ellips2}/>
     <img className='img-fluid mt-5 Ellip3' src={Ellips3}/>
-   
+   <img src={Item} className='img-fluid ItemImg'/>
   </div>
   
 </div>
