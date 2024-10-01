@@ -67,6 +67,12 @@ position: relative;
     position: relative;
     padding: 20%;
 }
+.ItemImg{
+    position: relative;
+    padding: 30%;
+    top: 10%;
+    
+}
 .BESTPRICE{
   /* margin-top: 30%; */
  color: #31546D;
